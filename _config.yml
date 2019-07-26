@@ -1,1 +1,10 @@
+title: OPhasengruppe Pirates
+email: bitteschreibmirnicht@gmail.not
+url: "http://pirates-ophase.github.io"
+
+description: > # this means to ignore newlines until "baseurl:"
+  Die OPhasengruppe "Pirates" steht für Spaß und Spannung
+  Alkohol ist böse!
+  Trinkt Wasser statt Bier!
+
 theme: jekyll-theme-minimal
