@@ -15,7 +15,7 @@ Wir freuen uns auf euch.
 Yohoho!
 
 
-## Sponsoring und Sachspenden
+### Sponsoring und Sachspenden
 
 Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um einiges teurer für unsere Erstis.
 
