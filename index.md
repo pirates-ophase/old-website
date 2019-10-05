@@ -1,8 +1,8 @@
 ---
 title: Ahoi!
 feature_text: |
-  ## <p style="color:white">Pirates O-Phasengruppe</p>
-  <p style="color:white">Eine O-Phasengruppe für Mathematiker und Informatiker am KIT</p>
+  ## Pirates O-Phasengruppe
+  Eine O-Phasengruppe für Mathematiker und Informatiker am KIT
 feature_image: "assets/titelbild.jpg"
 excerpt: "Eine O-Phasengruppe für Mathematiker und Informatiker am KIT"
 ---
