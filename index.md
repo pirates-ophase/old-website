@@ -19,8 +19,8 @@ Yohoho!
 
 Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um einiges teurer für unsere Erstis.
 
-![Logo von Andrena Objects](assets/andrena.png) | ![Logo von Gameforge](assets/gameforge.jpg) 
-[Andrena Objects](https://andrena.de) | [Gameforge](https://gameforge.com)
+![Logo von Andrena Objects](assets/andrena.png) |  | ![Logo von Gameforge](assets/gameforge.jpg) 
+[Andrena Objects](https://andrena.de) |  | [Gameforge](https://gameforge.com)
 
 
 - Available as a **theme gem** and **GitHub Pages** theme
