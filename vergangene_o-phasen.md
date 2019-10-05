@@ -67,3 +67,15 @@ Jetzt wird getrunken!
 
 ![Gitarre am Lagerfeuer](/assets/o-phase13/3.jpg)
 Mit Gitarre am Lagerfeuer
+
+
+### 2012 - My little O-Phase
+
+![Schiff](/assets/o-phase12/1.jpg)
+Unser Schiff. Ausgerüstet mit GPS, Anlage, Flagge und das Wichtigste: BIER!
+
+![Schiffsbemalung](/assets/o-phase12/2.jpg)
+Schiffsbemalung
+
+![Schiffsbau](/assets/o-phase12/3.jpg)
+Schiffsbau
