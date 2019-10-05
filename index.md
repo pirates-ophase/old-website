@@ -19,8 +19,8 @@ Yohoho!
 
 Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um einiges teurer für unsere Erstis.
 
-[![Logo von Andrena Objects](assets/andrena.png)](https://andrena.de) |  | [![Logo von Gameforge](assets/gameforge.jpg)](https://gameforge.com) 
+[![Logo von Andrena Objects](assets/andrena.png)](https://www.andrena.de) |  | [![Logo von Gameforge](assets/gameforge.jpg)](https://gameforge.com) 
 [![Logo von ColdFire Games](assets/coldfire.png)](https://www.coldfiregames.com) |  | [![Logo von Höpfner](assets/hoepfner.jpg)](https://www.hoepfner.de) 
-[![Logo von Billy Boy](assets/billyboy.jpg)](https://www.billy-boy.de) |  | [![Logo von MySize](assets/mysize.png)](https://www.mysize-condoms.de) 
+[![Logo von Billy Boy](assets/billyboy.jpg)](https://www.billy-boy.de) |  | [![Logo von MySize](assets/mysize.png)](https://www.mysize-condoms.com) 
 [![Logo von Badische Backstub](assets/badischebackstub.png)](https://www.badische-backstub.de) |  |  
 
