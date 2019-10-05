@@ -2,7 +2,7 @@
 title: Ahoi!
 feature_text: |
   ## Pirates O-Phasengruppe
-  Eine O-Phasengruppe für Mathematiker und Informatiker am KIT
+<p style="color:white">Eine O-Phasengruppe für Mathematiker und Informatiker am KIT</p>
 feature_image: "assets/titelbild.jpg"
 excerpt: "Eine O-Phasengruppe für Mathematiker und Informatiker am KIT"
 ---
