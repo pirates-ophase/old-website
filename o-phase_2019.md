@@ -2,7 +2,7 @@
 title: O-Phase 2019
 feature_text: |
   <p style="color:white">Deine O-Phase bei den Pirates</p>
-feature_image: "assets/o-phase17/1.jpg"
+feature_image: "/assets/o-phase17/1.jpg"
 excerpt: "Eine Übersicht über die O-Phase 2019"
 ---
 
