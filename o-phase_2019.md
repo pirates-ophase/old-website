@@ -1,12 +1,12 @@
 ---
 title: O-Phase 2019
 feature_text: |
-  <p style="color:white">Deine O-Phase bei den Pirates</p>
+  <h3 style="color:white">Deine O-Phase bei den Pirates</h3>
 feature_image: "/assets/o-phase17/1.jpg"
 excerpt: "Eine Übersicht über die O-Phase 2019"
 ---
 
-###Yohoho ihr Landratten!
+### Yohoho ihr Landratten!
 
 Bereit zum Plankenputzen?
 Bereit in See zu stechen?
@@ -18,6 +18,6 @@ Wenn ihr mitbekommen wollt, wie ein Studium oder das Leben in Karlsruhe im Allge
 
 Nach dieser Woche mit uns seid ihr definitiv bereit die Uni zu entern!
 
-Damit ihr wisst, wer und was so alles auf euch zukommt, wenn ihr bei uns anheuert, haben wir sowohl das Wochenprogramm als auch eine Übersicht über unsere [Crew](/crew.html) für euch.
+Damit ihr wisst, wer und was so alles auf euch zukommt, wenn ihr bei uns anheuert, haben wir sowohl das Wochenprogramm als auch eine Übersicht über unsere [Crew](/crew/) für euch.
 
 Wir freuen uns auf euch. Yohoho!
