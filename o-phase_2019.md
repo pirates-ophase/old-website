@@ -6,7 +6,8 @@ feature_image: "/assets/o-phase17/1.jpg"
 excerpt: "Eine Übersicht über die O-Phase 2019"
 ---
 
-![Pirates Logo](assets/pirates_demophasen_logo.svg)
+<img src="assets/pirates_demophasen_logo.svg" style="background:white;" />
+
 ### Yohoho ihr Landratten!
 
 Bereit zum Plankenputzen?
