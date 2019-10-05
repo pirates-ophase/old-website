@@ -15,7 +15,13 @@ Wir freuen uns auf euch.
 Yohoho!
 
 
-## Features
+## Sponsoring und Sachspenden
+
+Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um einiges teurer für unsere Erstis.
+
+![Logo von Andrena Objects](assets/andrena.png) | ![Logo von Gameforge](assets/gameforge.png) 
+[Andrena Objects](https://andrena.de) | [Gameforge](https://gameforge.com)
+
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Simple and elegant design that can be used out of the box or as solid starting point
