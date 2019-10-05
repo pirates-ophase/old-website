@@ -40,3 +40,30 @@ Videodreh für die neue O-Phase
 
 
 ### 2014 - Retro-Phase
+
+![Neue Flagge](/assets/o-phase14/1.jpg)
+Eine neue Flagge muss her!
+
+![Stammtisch](/assets/o-phase14/2.jpg)
+Stammtisch im Besitos Ole!
+
+![Cheers!](/assets/o-phase14/3.jpg)
+Cheers!
+
+![Neues Jahr](/assets/o-phase14/4.jpg)
+Ein neues Jahr!
+
+![Grillstammtisch](/assets/o-phase14/5.jpg)
+Grillstammtisch im Forum
+
+
+### 2013 - YOLO-Phase
+
+![Kicker](/assets/o-phase13/1.jpg)
+Fleißig am Bowlen und Kickern am 5-Meter-Kicker
+
+![Trinken](/assets/o-phase13/2.jpg)
+Jetzt wird getrunken!
+
+![Gitarre am Lagerfeuer](/assets/o-phase13/3.jpg)
+Mit Gitarre am Lagerfeuer
