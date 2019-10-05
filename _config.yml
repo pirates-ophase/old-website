@@ -17,16 +17,6 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/Berlin # Timezone for blog posts and alike
 
-# 5. Collections
-collections:
-  posts:
-    title: Vergangene O-Phasen # Needed for Siteleaf
-    output: true
-    description: "Ein Einblick in unsere vergangenen O-Phasen" # The post list page content
-    feature_text: |
-      Abenteuer
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
 # 6. Jekyll collections settings
 defaults:
   -
@@ -69,7 +59,7 @@ navigation_header:
 - title: O-Phase 2019
   url: /o-phase_2019/
 - title: Vergangene O-Phasen
-  url: /blog/
+  url: /vergangene_o-phasen/
 - title: Crew
   url: /crew/
 
