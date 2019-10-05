@@ -21,6 +21,8 @@ Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um eini
 
 ![Logo von Andrena Objects](assets/andrena.png) |  | ![Logo von Gameforge](assets/gameforge.jpg) 
 [Andrena Objects](https://andrena.de) |  | [Gameforge](https://gameforge.com)
+![Logo von ColdFire Games](assets/coldfire.png) |  | ![Logo von Höpfner](assets/hoepfner.jpg) 
+[ColdFire Games](https://www.coldfiregames.com) |  | [Höpfner](https://www.hoepfner.de)
 
 
 - Available as a **theme gem** and **GitHub Pages** theme
