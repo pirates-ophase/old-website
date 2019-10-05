@@ -2,11 +2,9 @@
 title: Vergangene O-Phasen
 feature_text: |
   <h3 style="color:white">Ein Auszug aus vorherigen Abenteuern</h3>
-feature_image: "/assets/o-phase17/1.jpg"
+feature_image: "/assets/o-phase15/1.jpg"
 excerpt: "Eine Übersicht über vergangene O-Phasen"
 ---
-
-<img src="/assets/pirates_demophasen_logo.svg" style="background:white; border:5px solid white" />
 
 ### 2018 - Echo-Phase
 
