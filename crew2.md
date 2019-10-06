@@ -6,7 +6,7 @@ excerpt: "Die Crew der Pirates"
 indexing: false
 ---
 
-## Der Vorstand
+### Der Vorstand
 
 | --- | --- | --- |
 | ![Joshua](/assets/crew19/maximilian_von_gaisberg.jpg) | | ![Aris](/assets/crew19/maximilian_von_gaisberg.jpg) |
