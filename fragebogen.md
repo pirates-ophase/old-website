@@ -7,6 +7,7 @@ indexing: false
 ---
 
 Johoho Pirates!
+
 Damit wir genug Rum in unser Schiff laden können und wissen, wer von euch
 Schinken in sein Sauerkraut möchte, ist es wichtig, dass ihr unseren Fragebogen
 ausfüllt!
