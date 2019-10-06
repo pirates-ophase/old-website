@@ -14,7 +14,7 @@ excerpt: "Die Crew der Pirates"
 #### Kapitän Joshua Bauer | | #### Erster Offizier Aris Clepe
 Informatik 5. Semester  | | Informatik 69. Semester
  | | 
-![Tobias](/assets/crew19/tobias_erthal.jpg) | | ![Maria](/assets/crew19/maria_nübling.jpg)
+![Tobias](/assets/crew19/maximilian_von_gaisberg.jpg) | | ![Maria](/assets/crew19/maria_nübling.jpg)
 #### Papagei Tobias Erthal | | #### Schatzmeisterin Maria Nübling
 Informatik 5. Semester | | Informatik 5. Semester
 
