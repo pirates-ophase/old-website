@@ -6,8 +6,6 @@ excerpt: "Die Crew der Pirates"
 indexing: false
 ---
 
-
-
 ## Der Vorstand
 
 | --- | --- | --- |
