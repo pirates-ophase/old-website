@@ -28,15 +28,18 @@ indexing: false
 | Mattis                                             |     | Dimi                                             |
 | Informatik (Bachelor) 7. Semester                  |     | Mathematik (Bachelor) 5. Semester                |
 |                                                    |     |                                                  |
-| ![Ville](/assets/crew19/ville.jpg)                 |     | ![Edwin](/assests/crew19/edwin_roos.jpg)         |
+| ![Ville](/assets/crew19/ville.jpg)                 |     | ![Edwin](/assets/crew19/edwin_roos.jpg)          |
 | Ville                                              |     | Edwin                                            |
 | Police Science (Bachelor) ∞. Semester              |     | Informatik (Bachelor) 5. Semester                |
 |                                                    |     |                                                  |
-| ![Cedrico](/assests/crew19/cedrico_knoesel.jpg)    |     | ![Illya](/assests/crew19/illya_byelkin.jpg)      |
+| ![Cedrico](/assets/crew19/cedrico_knoesel.jpg)     |     | ![Illya](/assets/crew19/illya_byelkin.jpg)       |
 | Cedrico                                            |     | Illya Byelkin                                    |
 | Informatik (Bachelor) 3. Semester                  |     | Informatik (Bachelor) 5. Semester                |
 |                                                    |     |                                                  |
-| ![Julian](/assests/crew19/julian_doerner.jpg)      |     | ![Tamara](/assests/crew19/tamara.jpg)            |
+| ![Julian](/assets/crew19/julian_doerner.jpg)       |     | ![Tamara](/assets/crew19/tamara.jpg)             |
 | Julian                                             |     | Tamara                                           |
 | Mathematik (Bachelor) 5. Semester                  |     | Physik (Bachelor) ∞                              |
 |                                                    |     |                                                  |
+| ![Saad](/assets/crew19/saad.jpg)                   |     |                                                  |
+| Saad                                               |     |                                                  |
+| Informatik (Bachelor) 7. Semester                  |     |                                                  |
