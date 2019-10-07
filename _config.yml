@@ -60,10 +60,12 @@ navigation_header:
   url: /o-phase_2019/
 - title: Wochenplan
   url: /wochenplan/
-- title: Vergangene O-Phasen
-  url: /vergangene_o-phasen/
 - title: Crew
   url: /crew/
+- title: Mailingliste
+  url: /mailingliste/
+- title: Vergangene O-Phasen
+  url: /vergangene_o-phasen/
 
 navigation_footer:
 - title: An Land gezogen von Julian Dörner und Maximilian von Gaisberg
