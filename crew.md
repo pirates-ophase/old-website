@@ -44,3 +44,6 @@ indexing: false
 | Saad                                      |     | Benjamin                                    |
 | Informatik (Bachelor) 7. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
+| ![Alex](/assets/crew19/alex_00.jpg)       |
+| Alex                                      |
+| Informatik (Bachelor) 5. Semester         |
