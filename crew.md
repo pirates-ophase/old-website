@@ -13,7 +13,7 @@ indexing: false
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Master) 15. Semester            |
 |                                           |     |                                             |
 | ![Tobias](/assets/crew19/tobias_00.jpg)   |     | ![Maria](/assets/crew19/maria_00.jpg)       |
-| Papagei Tobi                              |     | Schatzmeisterin Maria                       |
+| Papagei Tomati                              |     | Schatzmeisterin Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
 | ![Max](/assets/crew19/maximilian_00.jpg)  |     | ![Joschka Haas](/assets/crew19/blank.jpg)   |
