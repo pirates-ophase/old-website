@@ -13,7 +13,7 @@ indexing: false
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Master) 15. Semester            |
 |                                           |     |                                             |
 | ![Tobias](/assets/crew19/tobias_00.jpg)   |     | ![Maria](/assets/crew19/maria_00.jpg)       |
-| Papagei Tomati                              |     | Schatzmeisterin Maria                       |
+| Papagei Tomati                            |     | Schatzmeisterin Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
 | ![Max](/assets/crew19/maximilian_00.jpg)  |     | ![Joschka Haas](/assets/crew19/blank.jpg)   |
@@ -38,12 +38,13 @@ indexing: false
 |                                           |     |                                             |
 | ![Julian](/assets/crew19/julian_00.jpg)   |     | ![Tamara](/assets/crew19/tamara_00.jpg)     |
 | Julian                                    |     | Tamara                                      |
-| Mathematik (Bachelor) 5. Semester         |     | Physik (Bachelor) ∞                         |
+| Mathematik (Bachelor) 5. Semester         |     | Physik (Bachelor) ∞. Semester               |
 |                                           |     |                                             |
 | ![Saad](/assets/crew19/saad_00.jpg)       |     | ![Benjamin](/assets/crew19/benjamin_00.jpg) |
 | Saad                                      |     | Benjamin                                    |
 | Informatik (Bachelor) 7. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
-| ![Alex](/assets/crew19/alex_00.jpg)       |
-| Alex                                      |
-| Informatik (Bachelor) 5. Semester         |
+| ![Alex](/assets/crew19/alex_00.jpg)       |     | ![Robin](/assets/crew19/robin_00.jpg)       |
+| Alex                                      |     | Robin                                       |
+| Informatik (Bachelor) 5. Semester         |     | Informatikkaufmann (Bachelor) ∞. Semester   |
+|                                           |     |                                             |
