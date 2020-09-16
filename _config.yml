@@ -54,12 +54,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Fragebogen
-  url: /fragebogen/
-- title: O-Phase 2019
-  url: /o-phase_2019/
-- title: Wochenplan
-  url: /wochenplan/
+#- title: Fragebogen
+#  url: /fragebogen/
+- title: O-Phase 2020
+  url: /o-phase_2020/
+#- title: Wochenplan
+#  url: /wochenplan/
 - title: Crew
   url: /crew/
 - title: Mailingliste
