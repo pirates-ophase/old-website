@@ -6,6 +6,32 @@ feature_image: "/assets/o-phase15/1.jpg"
 excerpt: "Eine Übersicht über vergangene O-Phasen"
 ---
 
+### 2019 - Demo-Phase
+
+![Erstis abholen](/assets/o-phase19/1.jpg)
+Die neuen Matrosen werden vom Audimax abgeholt
+
+![Erstis abholen](/assets/o-phase19/2.jpg)
+
+![Erstis abholen](/assets/o-phase19/3.jpg)
+Manchmal muss man sich kreativ vor hohem Seegang schützen.
+
+![Erstis abholen](/assets/o-phase19/4.jpg)
+Der Piratenschatz mit gutem Alkohol
+
+![Erstis abholen](/assets/o-phase19/5.jpg)
+Unser Vorrat an etwas billigerem Alkohol
+
+![Erstis abholen](/assets/o-phase19/6.jpg)
+Cocktailabend in der K4-Bar...
+
+![Erstis abholen](/assets/o-phase19/7.jpg)
+...am nächsten Morgen mussten ein paar Becher gespült werden.
+
+![Erstis abholen](/assets/o-phase19/8.jpg)
+Was auch immer hier passiert ist.
+
+
 ### 2018 - Echo-Phase
 
 ![Erstis abholen](/assets/o-phase18/1.jpg)
