@@ -14,7 +14,7 @@ Doch auch nach der O-Phase kommt die Crew immer wieder zusammen um die eine oder
 Wir freuen uns auf euch.
 Yohoho!
 
-
+{% comment %}
 ### Sponsoring und Sachspenden
 
 Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um einiges teurer für unsere Erstis.
@@ -24,3 +24,4 @@ Wir bedanken uns bei allen unseren Sponsoren. Ohne sie wäre die O-Phase um eini
 [![Logo von Billy Boy](assets/billyboy.jpg)](https://www.billy-boy.de) |  | [![Logo von MySize](assets/mysize.png)](https://www.mysize-condoms.com) 
 [![Logo von Badische Backstub](assets/badischebackstub.png)](https://www.badische-backstub.de) |  |  
 
+{% endcomment %}
