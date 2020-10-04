@@ -16,6 +16,10 @@ indexing: false
 | Papagei Tomati                            |     | Schatzmeisterin Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
+| ![Stefan](/assets/crew19/stefan_00.jpg)   |     | ![Vera](/assets/crew19/blank.jpg)           |
+| Strandkoitus Stefan                       |     | Vera                                        |
+| Informatik (Bachelor) 3. Semester         |     | Informatik (Master) 1. Semester             |
+|                                           |     |                                             |
 
  ![Joschka und Max](/assets/crew19/joschka_max.jpg)
  
@@ -23,10 +27,6 @@ indexing: false
 | ----------------------------------------- | --- | ------------------------------------------- |
 | Maximilian von Gaisberg                   |     | Joschka Haas                                |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
-|                                           |     |                                             |
-| ![Stefan](/assets/crew19/stefan_00.jpg)   |     | ![Vera](/assets/crew19/blank.jpg)           |
-| Strandkoitus Stefan                       |     | Vera                                        |
-| Informatik (Bachelor) 3. Semester         |     | Informatik (Master) 1. Semester             |
 |                                           |     |                                             |
 | ![Mattis](/assets/crew19/blank.jpg)       |     | ![Dimi](/assets/crew19/dimitry_00.jpg)      |
 | Mattis                                    |     | Dimi                                        |
