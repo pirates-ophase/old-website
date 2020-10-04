@@ -34,7 +34,7 @@ indexing: false
 |                                           |     |                                             |
 | <img src="/assets/crew19/jasmin.jpg" width="500px">   |     | <img src="/assets/crew19/phillip.jpg" width="500px">         |
 | Jasmin                                    |     | Phillip                                     |
-| Informatik (Bachelor) 3. Semester         |     | Informatik (Master) 3. Semester            |
+| Informatik (Bachelor) 3. Semester         |     | Informatik (Bachelor) 3. Semester            |
 |                                           |     |                                             |
 | ![Mattis](/assets/crew19/blank.jpg)       |     | ![Dimi](/assets/crew19/dimitry_00.jpg)      |
 | Mattis                                    |     | Dimi                                        |
