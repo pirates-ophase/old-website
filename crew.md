@@ -16,7 +16,11 @@ indexing: false
 | Papagei Tomati                            |     | Schatzmeisterin Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
-| ![Max](/assets/crew19/maximilian_00.jpg)  |     | ![Joschka Haas](/assets/crew19/blank.jpg)   |
+
+ ![Joschka und Max](/assets/crew19/joschka_max.jpg)
+ 
+| ---                                       | --- | ---                                         |
+| ----------------------------------------- | --- | ------------------------------------------- |
 | Maximilian von Gaisberg                   |     | Joschka Haas                                |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester           |
 |                                           |     |                                             |
