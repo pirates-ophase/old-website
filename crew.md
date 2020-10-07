@@ -33,7 +33,7 @@ indexing: false
 | Informatik (Bachelor) 3. Semester         |     | Informatik (Bachelor) 3. Semester            |
 |                                           |     |                                             |
 | <img src="/assets/crew19/jasmin.jpg" width="500px">   |     | <img src="/assets/crew19/phillip.jpg" width="500px">         |
-| Jasmin                                    |     | Phillip                                     |
+| Jasmin                                    |     | Philipp                                     |
 | Informatik (Bachelor) 3. Semester         |     | Informatik (Bachelor) 3. Semester            |
 |                                           |     |                                             |
 | ![Mattis](/assets/crew19/blank.jpg)       |     | ![Dimi](/assets/crew19/dimitry_00.jpg)      |
