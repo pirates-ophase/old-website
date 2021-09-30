@@ -20,7 +20,7 @@ indexing: false
 | Ex-Kapitän Joshi                             |     | Ex-Ex-Kapitän Aris                        |
 | Informatik (Bachelor) 9. Semester         |     | Informatik (Master) 19. Semester            |
 |                                           |     |                                             |
-| ![Tobias](/assets/crew19/maximilian-schweikart.jpg)   |     | ![Maria](/assets/crew19/maria_00.jpg)       |
+| ![Maximilian](/assets/crew19/maximilian-schweikart.png)   |     | ![Maria](/assets/crew19/maria_00.jpg)       |
 | Max                             |     | Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Master) 2. Semester           |
 |                                           |     |                                             |
