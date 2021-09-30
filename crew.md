@@ -44,9 +44,9 @@ indexing: false
 | Mattis                                    |     | Dimi                                        |
 | Informatik (Bachelor) 11. Semester         |     | Mathematik (Bachelor) 9. Semester           |
 |                                           |     |                                             |
-| ![Ville](/assets/crew19/ville.jpg)        |     | ![Edwin](/assets/crew19/edwin_00.jpg)       |
-| Ville                                     |     | Edwin                                       |
-| Police Science (Bachelor) ∞. Semester     |     | Informatik (Master) 2. Semester           |
+| ![Mi](/assets/crew19/mi.jpg)        |     | ![Edwin](/assets/crew19/edwin_00.jpg)       |
+| Mi                                     |     | Edwin                                       |
+| Biologie (Bachelor) 9. Semester     |     | Informatik (Master) 2. Semester           |
 |                                           |     |                                             |
 | ![Cedrico](/assets/crew19/cedrico_00.jpg) |     | ![Illya](/assets/crew19/illya_00.jpg)       |
 | Cedrico                                   |     | Illya Byelkin                               |
@@ -64,7 +64,7 @@ indexing: false
 | Alex                                      |     | Robin                                       |
 | Informatik (Bachelor) 9. Semester         |     | Informatikkaufmann (Bachelor) ∞. Semester   |
 |                                           |     |                                             |
-| ![Alex](/assets/crew19/mi.jpg)       |     |        |
-| Mi                                      |     |                                        |
-| Biologie (Bachelor) 9. Semester         |     |    |
+| ![Ville](/assets/crew19/ville.jpg)       |     |        |
+| Ville                                      |     |                                        |
+| Police Science (Bachelor) ∞. Semester         |     |    |
 |                                           |     |                                             |
