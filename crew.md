@@ -8,7 +8,7 @@ indexing: false
 
 | ---                                       | --- | ---                                         |
 | ----------------------------------------- | --- | ------------------------------------------- |
-| <img src="/assets/crew19/lena.jpg" width="500px">  |     | <img src="/assets/crew19/zoe.jpg" width="500px">         |
+| <img src="/assets/crew19/PXL_20211001_162303546.MP~2.jpg" width="500px">  |     | <img src="/assets/crew19/zoe.jpg" width="500px">         |
 | Kapitänin Lena                             |     | Erste Maatin Zoe                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 5. Semester            |
 |                                           |     |                                             |
