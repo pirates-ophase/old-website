@@ -1,5 +1,4 @@
 ---
-title: O-Phase 2021
 feature_text: |
   <h3 style="color:white">Deine O-Phase bei den Pirates</h3>
 feature_image: "/assets/o-phase17/1.jpg"
