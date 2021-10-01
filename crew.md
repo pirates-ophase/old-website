@@ -52,7 +52,7 @@ indexing: false
 | Cedrico                                   |     | Illya Byelkin                               |
 | Informatik (Bachelor) 7. Semester         |     | Informatik (Exil) 9. Semester           |
 |                                           |     |                                             |
-| ![Julian](/assets/crew19/julian_00.jpg)   |     | ![Tamara](/assets/crew19/tamara_00.jpg)     |
+| ![Julian](/assets/crew19/photo_2021-10-01_11-12-47.jpg)   |     | ![Tamara](/assets/crew19/tamara_00.jpg)     |
 | Julian                                    |     | Tamara                                      |
 | Mathematik (Master) 2. Semester         |     | Physik (Bachelor) ∞. Semester               |
 |                                           |     |                                             |
