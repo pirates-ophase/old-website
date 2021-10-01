@@ -6,7 +6,8 @@ feature_image: "/assets/o-phase17/1.jpg"
 excerpt: "Eine Übersicht über die O-Phase 2021"
 ---
 
-<img src="/assets/logo_schwarz.png" style="background:white" width="60%"/>
+<img src="/assets/logo_schwarz.png" style="background:white;margin-left: auto;
+  margin-right: auto;" width="60%"/>
 
 ### Yohoho ihr Landratten!
 
