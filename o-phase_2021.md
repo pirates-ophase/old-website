@@ -6,7 +6,7 @@ feature_image: "/assets/o-phase17/1.jpg"
 excerpt: "Eine Übersicht über die O-Phase 2021"
 ---
 
-<img src="/assets/Pirates_T-shirt_vorne.png" style="background:black" width="60%"/>
+<img src="/assets/logo_schwarz.png" style="background:white" width="60%"/>
 
 ### Yohoho ihr Landratten!
 
