@@ -12,4 +12,4 @@ Bei uns wird nicht faul rumgegammelt! Wir haben so einiges die Woche vor...
 
 
 
-<img src="/assets/wochenplan.jpg">
+<img src="/assets/wochenplan.png">
