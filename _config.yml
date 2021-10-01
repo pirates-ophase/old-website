@@ -59,8 +59,8 @@ navigation_header:
 #  url: /fragebogen/
 - title: O-Phase 2021
   url: /o-phase_2021/
-#- title: Wochenplan
-#  url: /wochenplan/
+- title: Wochenplan
+  url: /wochenplan/
 - title: Crew
   url: /crew/
 - title: Mailingliste
