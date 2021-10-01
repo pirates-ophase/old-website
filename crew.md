@@ -26,7 +26,7 @@ indexing: false
 |                                           |     |                                             |
 | ![Stefan](/assets/crew19/stefan_00.jpg)   |     | ![Vera](/assets/crew19/blank.jpg)           |
 | Strandkoitus Stefan                       |     | Vera                                        |
-| Z10 Mitglied 7. Semester                  |     | Informatik (Master) 5. Semester             |
+| Z10 Mitglied 7. Semester                  |     | Informatik (Master) tatsächlich fertig studiert?             |
 |                                           |     |                                             |
 
  ![Joschka und Max](/assets/crew19/joschka_max.jpg)
@@ -54,7 +54,7 @@ indexing: false
 |                                           |     |                                             |
 | ![Julian](/assets/crew19/julian_00.jpg)   |     | ![Tamara](/assets/crew19/tamara_00.jpg)     |
 | Julian                                    |     | Tamara                                      |
-| Mathematik (Master) 1. Semester         |     | Physik (Bachelor) ∞. Semester               |
+| Mathematik (Master) 2. Semester         |     | Physik (Bachelor) ∞. Semester               |
 |                                           |     |                                             |
 | ![Saad](/assets/crew19/saad_00.jpg)       |     | ![Benjamin](/assets/crew19/benjamin_00.jpg) |
 | Saad                                      |     | Benjamin                                    |
