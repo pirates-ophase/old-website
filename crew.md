@@ -64,7 +64,7 @@ indexing: false
 | Alex                                      |     | Robin                                       |
 | Informatik (Bachelor) 9. Semester         |     | Informatikkaufmann (Bachelor) ∞. Semester   |
 |                                           |     |                                             |
-| ![Ville](/assets/crew19/ville.jpg)       |     |        |
-| Ville                                      |     |                                        |
-| Police Science (Bachelor) ∞. Semester         |     |    |
+| ![Ville](/assets/crew19/ville.jpg)        |     | ![Daniel](/assets/crew19/daniel.jpg)        |
+| Ville                                     |     | Daniel                                      |
+| Police Science (Bachelor) ∞. Semester     |     | Informatik (Bachelor) 15. Semester          |
 |                                           |     |                                             |
