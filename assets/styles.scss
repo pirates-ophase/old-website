@@ -48,3 +48,12 @@ $monospacetype: (
 
 
 @import "alembic";
+
+// style tables
+td, th {
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+th {
+  font-weight: bold;
+}
