@@ -62,6 +62,8 @@ navigation_header:
 #  url: /wochenplan/
 - title: Crew
   url: /crew/
+- title: Discord
+  url: /discord/
 - title: Mailingliste
   url: /mailingliste/
 - title: Vergangene O-Phasen
