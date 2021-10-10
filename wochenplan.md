@@ -12,8 +12,14 @@ Bei uns wird nicht faul rumgegammelt! Wir haben so einiges die Woche vor...
 
 ## Wochenplan vom 11.10. - 15.10.
 
-| | Mo. 11.10. | Di. 12.10. | Mi. 13.10. | Do. 14.10. | Fr. 15.10. |
-| - | - | - | - | - | - |
-| Vormittags | Kennenlernspiele | Frühstück | Frühstück | Frühstück | Frühstück |
-| Nachmittags | Grillen | Fachbereichs- informationen, Campus-Führung | O-Rallye, Powerpoint-Karaoke | O-Lympia, Mittagessen | Lasertag / Bowling, Essen gehen |
-| Abends | Barabend | Essen, (Brett-)Spiele | Lagerfeuer-Abend | Cocktailabend | Barabend |
+![Start](/assets/o-phase21/Start.png)
+
+![Montag](/assets/o-phase21/Montag.png)
+
+![Dienstag](/assets/o-phase21/Dienstag.png)
+
+![Mittwoch](/assets/o-phase21/Mittwoch.png)
+
+![Donnerstag](/assets/o-phase21/Donnerstag.png)
+
+![Freitag](/assets/o-phase21/Freitag.png)
