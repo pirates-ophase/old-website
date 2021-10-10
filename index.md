@@ -7,6 +7,8 @@ feature_image: "assets/titelbild.jpg"
 excerpt: "Eine O-Phasengruppe für Mathematiker und Informatiker am KIT"
 ---
 
+<img src="/assets/pirates_demophasen_logo.svg" style="background:white; border:5px solid white" />
+
 Mit uns erwartet euch eine aufregende O-Phase, nach der ihr garantiert bereit seid, die Uni zu entern.
 
 Doch auch nach der O-Phase kommt die Crew immer wieder zusammen um die eine oder andere Buddel Rum zu leeren.

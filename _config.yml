@@ -8,7 +8,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Alkohol ist böse!
   Trinkt Wasser statt Bier!
 
-remote_theme: daviddarnes/alembic
+remote_theme: pirates-ophase/alembic
+
 
 # 4. Jekyll settings
 sass:
@@ -56,10 +57,10 @@ navigation_header:
   url: /
 #- title: Fragebogen
 #  url: /fragebogen/
-- title: O-Phase 2020
-  url: /o-phase_2020/
-#- title: Wochenplan
-#  url: /wochenplan/
+- title: O-Phase 2021
+  url: /o-phase_2021/
+- title: Wochenplan
+  url: /wochenplan/
 - title: Crew
   url: /crew/
 - title: Discord
