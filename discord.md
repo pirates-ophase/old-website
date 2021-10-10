@@ -8,4 +8,4 @@ indexing: false
 
 Auf unserem Discord Server könnt ihr mit anderen lernen, zocken oder einfach nur chillen!
 
-[Hier geht's zum Discord, Matrosen!](https://thinfi.com/es2g)
+[Hier geht's zum Discord, Matrosen!](https://discord.gg/dd6sV35)
