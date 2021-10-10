@@ -68,7 +68,7 @@ indexing: false
 | Ville                                     |     | Daniel                                      |
 | Police Science (Bachelor) ∞. Semester     |     | Informatik (Bachelor) 15. Semester          |
 |                                           |     |                                             |
-| ![Stefan](/assets/crew19/stefan.jpg)      |     |                                             |
-| Stefan                                    |     |                                             |
-| Informatik (Bachelor) 5. Semester         |     |                                             |
+| ![Stefan](/assets/crew19/stefan.jpg)      |     | ![Abdel](/assets/crew19/abdel.jpg)          |
+| Stefan                                    |     | Abdel                                       |
+| Informatik (Bachelor) 5. Semester         |     | Informatik (Bachelor) 7. Semester           |
 |                                           |     |                                             |
