@@ -24,7 +24,7 @@ indexing: false
 | Max                             |     | Maria                       |
 | Informatik (Bachelor) 5. Semester         |     | Informatik (Master) 2. Semester           |
 |                                           |     |                                             |
-| ![Stefan](/assets/crew19/IMG_20211011_160152_448~2.jpg)   |     | ![Vera](/assets/crew19/blank.jpg)           |
+| <img src="/assets/crew19/IMG_20211011_160152_448~2.jpg" width="500px">)   |     | ![Vera](/assets/crew19/blank.jpg)           |
 | Strandkoitus Stefan                       |     | Vera                                        |
 | Z10 Mitglied 7. Semester                  |     | Informatik (Master) tatsächlich fertig studiert?             |
 |                                           |     |                                             |
