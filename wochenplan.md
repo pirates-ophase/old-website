@@ -18,7 +18,7 @@ Bei uns wird nicht faul rumgegammelt! Wir haben so einiges die Woche vor...
 
 ![Dienstag](/assets/o-phase21/Dienstag.png)
 
-![Mittwoch](/assets/o-phase21/Mittwoch.png)
+![Mittwoch](/assets/o-phase21/Mittwoch-v2.png)
 
 ![Donnerstag](/assets/o-phase21/Donnerstag.png)
 
